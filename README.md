@@ -1,5 +1,5 @@
 Retrofit 2 RxJava 2 Adapter
-===========================
+==========================
 
 An RxJava 2 `CallAdapter.Factory` implementation for Retrofit 2.
 
